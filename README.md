@@ -1,2 +1,3 @@
-# Standards-and-Syllabus
-HHS Introduction to Programming course standards and syllabus
+# Course Standards and Syllabus
+
+Please see the [Standards and Syllabus Wiki](https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki) for details.
