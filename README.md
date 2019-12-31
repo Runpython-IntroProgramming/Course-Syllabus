@@ -1,6 +1,6 @@
-# Course Standards and Syllabus
+# Course Syllabus
 
-Please see the [Standards and Syllabus Wiki](https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki) for details:
+Please see the [Course Syllabus Wiki](https://github.com/Runpython-IntroProgramming/Course-Syllabus/wiki) for details:
 
-* [List of assignments and tutorials](https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/home)
-* [Course expectations and grading policy](https://github.com/HHS-IntroProgramming/Standards-and-Syllabus/wiki/Course-Expectations)
+* [List of assignments and tutorials](https://github.com/Runpython-IntroProgramming/Course-Syllabus/wiki/home)
+* [Course expectations and grading policy](https://github.com/Runpython-IntroProgramming/Course-Syllabus/wiki/Course-Expectations)
